@@ -1,0 +1,22 @@
+Min:	1.0
+Max:	1.0
+North:	0.0
+South:	0.0
+East:	0.0
+West:	0.0
+Cols:	1138
+Rows:	861
+Stacks:	1
+Data Type:	FLOAT
+Z Units:	not specified
+XY Units:	not specified
+Projection:	not specified
+Data Scale:	continuous
+Display Min:	1.0
+Display Max:	1.0
+Preferred Palette:	spectrum.pal
+NoData:	-32768.0
+Byte Order:	LITTLE_ENDIAN
+Palette Nonlinearity:	20.0
+Metadata Entry:	Created by the Import GRASS ASCII Grid tool.
+Metadata Entry:	Created on Sun Jun 21 17;58;55 BRT 2020
